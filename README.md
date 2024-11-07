@@ -30,10 +30,8 @@ Sometimes like to play around with my Linux VDS. Also wondering about writing my
 - Computer Vision and Machine Learning.
 
 ⚒️ ***Currently working on:***
-- **C++** UI application for my term work;
-- **C** taiHEN user plugin for one of my mods;
+- **C++** taiHEN user plugin for one of my mods;
 - **Python/C++** data convertion scripts for Stardew Valley & Minecraft;
-- **Python** chat bot;
 - Modifications for the PS Vita Stardew Valley & Minecraft.
 
 🖥️ ***My languages:***  
